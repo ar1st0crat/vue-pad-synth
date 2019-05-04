@@ -2,7 +2,7 @@
 
 [PADSynth algorithm by Nasca Octavian Paul](http://zynaddsubfx.sourceforge.net/doc/PADsynth/PADsynth.htm)
 
-[Try it in your browser]https://ar1st0crat.github.io/vue-pad-synth)
+[Try it in your browser](https://ar1st0crat.github.io/vue-pad-synth)
 
 ![screen](https://github.com/ar1st0crat/vue-pad-synth/blob/master/screenshot/vue-pad-synth.png)
 
